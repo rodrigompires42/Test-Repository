@@ -1,6 +1,8 @@
 
 public class Point {
 	
+	// This is a comment
+	
 	double x;
 	double y;
 	
